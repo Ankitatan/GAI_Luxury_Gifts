@@ -752,6 +752,91 @@ GAI LUXURY GIFTING
 
 # 🗺️ Development Roadmap
 
-| Version | Focus                |
-| ------- | -------------------- |
-| **v18** | ML Foundation — Dema |
+| Version | Focus                                                 |
+| ------- | ----------------------------------------------------- |
+| **v18** | ML Foundation — Demand Forecasting + Product Health   |
+| **v19** | Customer Intelligence — CLV + Churn + Repeat Purchase |
+| **v20** | Revenue Forecasting                                   |
+| **v21** | Personalized Gift Recommendation                      |
+| **v22** | Promotion ROI / Uplift Modelling                      |
+| **v23** | LLM + RAG + AI Explanations                           |
+| **v24** | MLflow + FastAPI + Production ML                      |
+
+---
+
+# 🛠️ Technology Stack
+
+* **Python**
+* **Streamlit**
+* **Pandas**
+* **NumPy**
+* **Scikit-learn**
+* **SQL**
+* **Power BI**
+* **Razorpay API**
+* **Git & GitHub**
+* **MLflow** — planned
+* **FastAPI** — planned
+* **LLM / RAG stack** — planned
+
+---
+
+# 📖 Study-First Approach
+
+GAI is not intended to be a project where code is simply generated and deployed.
+
+Each major version is designed around:
+
+```text
+Understand the Concept
+        ↓
+Understand the Business Problem
+        ↓
+Understand the Dataset
+        ↓
+Study the Code
+        ↓
+Run the Project
+        ↓
+Modify the Code
+        ↓
+Evaluate the Result
+        ↓
+Explain the Result
+```
+
+A dedicated study guide is planned for each ML version covering:
+
+* Concept explanation
+* Business problem
+* Dataset structure
+* Code walkthrough
+* Why the model was selected
+* Evaluation metrics
+* Common mistakes
+* Interview questions
+* Practical exercises
+
+---
+
+# 🎯 Portfolio Objective
+
+GAI Luxury Gifting is being developed as an **end-to-end Data Science, Machine Learning, and AI portfolio project**.
+
+The goal is to demonstrate practical ability across:
+
+**Python → SQL → Data Analytics → Business Intelligence → Machine Learning → Recommendation Systems → Generative AI → Production ML**
+
+rather than presenting isolated ML models without a business context.
+
+---
+
+## 👩‍💻 Author
+
+**Ankita Taneja**
+
+**Data Analytics | Data Science | AI/ML | GenAI | Python | SQL | Power BI | HTML5 | CSS | JS**
+
+---
+
+⭐ **If you find the project interesting, consider starring the repository.**
